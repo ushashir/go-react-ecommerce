@@ -1,0 +1,13 @@
+[
+  {
+    "_id": {
+      "$oid": "64f619ffde76a308ee5ded5f"
+    },
+    "password": "$2a$10$5rr87JWlzQ57TK1m4A0kieTesMEr3uzzoh6zTgMbL6u/7viV5uv6G",
+    "full_name": "TLE",
+    "email": "admin@example.com",
+    "role": "admin",
+    "image": "https://toppng.com/uploads/preview/new-icon-i-made-xp-katsuki-bakugou-icon-boku-no-hero-academia-icon-11553378842itzicwkyvh.png",
+    "addresses": []
+  }
+]
